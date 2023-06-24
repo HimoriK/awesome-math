@@ -72,18 +72,12 @@ A curated list of awesome mathematics resources.
 
 ## Learning Platforms
 
-* [Khan Academy](https://www.khanacademy.org/math)
-* [Coursera](https://www.coursera.org/courses?query=mathematics&languages=en)
-* [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/)
-* [edX](https://www.edx.org/course/subject/math)
-* [Brilliant](https://brilliant.org/courses/#math-foundational)
-* [WooTube](https://misterwootube.com/)
-* [Mathigon](https://mathigon.org/)
-* [Calculus.org](http://calculus.org/)
+* [Khan Academy](https://www.khanacademy.org/math) free, used in many schools for practice, however confusing videos and limited plans
+* [Coursera](https://www.coursera.org/courses?query=mathematics&languages=en) 'free' courses
+* [Brilliant](https://brilliant.org/courses/#math-foundational) byte sized math (not much better than a book or khan academy)
+* [Calculus.org](http://calculus.org/) various links to calculus resources
 * [Ximera](https://ximera.osu.edu/) : free interactive mathematics textbooks (Ohio State University)
-* [MathRelay](https://www.mathrelay.com/)
-* [Almost Fun](https://www.almostfun.org/lessons/)
-* [Oxford Mathematics](https://www.youtube.com/c/OxfordMathematics)
+* [MathRelay](https://www.mathrelay.com/) serious site with solutions and video
 
 ## Learn to Learn
 
@@ -91,11 +85,9 @@ A curated list of awesome mathematics resources.
 
 ## Youtube Series
 
-* [Brandon Foltz](https://www.youtube.com/@BrandonFoltz)
-* [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
-* [3Blue1Brown](https://www.youtube.com/@3blue1brown)
-* [NPTEL](https://www.youtube.com/@iit)
-* [PatrickJMT](https://www.youtube.com/@patrickjmt)
+* [Brandon Foltz](https://www.youtube.com/@BrandonFoltz) statistics
+* [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) statistics, and some AI stuff
+* [3Blue1Brown](https://www.youtube.com/@3blue1brown) some good videos
 * [Professor Leonard](https://www.youtube.com/@ProfessorLeonard)
   * [Precalculus - College Algebra/Trigonometry](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP)
   * [Calculus 1](https://www.youtube.com/playlist?list=PLF797E961509B4EB5)
@@ -104,8 +96,6 @@ A curated list of awesome mathematics resources.
   * [Differential Equations](https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
   * [To The Point Math](https://www.youtube.com/playlist?list=PLDesaqWTN6ETc1ZwHWijCBcZ2gOvS2tTN)
 * [Crash Course](https://www.youtube.com/@crashcourse)
-* [Harvard](https://www.youtube.com/@harvard)
-* [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
 * [Mathologer](https://www.youtube.com/@Mathologer)
 * [The Math District](https://www.youtube.com/@TheMathDistrict)
 * [Mathematical Monk](https://www.youtube.com/@mathematicalmonk)
@@ -132,17 +122,11 @@ A curated list of awesome mathematics resources.
 * [xhub](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
 * [CopyPasteMathjax](https://www.copypastemathjax.com/)
 
-## Questions and Answers
-
-* [Mathematics Stack Exchange](http://math.stackexchange.com/)
-* [MathOverflow](http://mathoverflow.net/) - for professional mathematicians
-
 ## Encyclopedia
 
 * [Encyclopedia of Mathematics](https://www.encyclopediaofmath.org)
 * [Planetmath](http://planetmath.org/)
 * [ProofWiki](https://proofwiki.org/wiki/Main_Page)
-* [Wolfram Mathworld](http://mathworld.wolfram.com/)
 
 ## Books
 
@@ -167,20 +151,15 @@ A curated list of awesome mathematics resources.
 ## Blogs
 
 * [BetterExplained](https://betterexplained.com/) - Maintained by Kalid Azad
-* [ILoveMaths](http://ilovemaths.com/) - For grades 6 thru 12 in K-12 system
-* [3blue1brown](https://www.3blue1brown.com/) - Animated Maths
-* [Mathsisfun](https://www.mathsisfun.com) simple text light weight site for students upto highschool
 * [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev (Professor of mathematics at Marshall University, Huntington WV, USA)
 
 ## Misc
 * [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
-* [Paul's Online Math Notes](http://tutorial.math.lamar.edu/) - Paul Dawkins (Lamar University)
 * [List of electronic textbooks](http://faculty.atu.edu/mfinan/nnotes.html) - Marcel B. Finan (Arkansas Tech University)
-* [Topology Atlas](http://at.yorku.ca/topology/)
-* [Recreations in Math](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) - H. E. Licks (1917)
-* [Magic Squares and Cubes](http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf) - W. S. Andrews (1917)
-* [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) - Stephen Boyd and Lieven Vandenberghe
-* [Fabrice Baudoin's Notes](https://fabricebaudoin.wordpress.com/) - Both research and lecture notes on many topics, Including Diffusions on foliated manifold, Stochastic Calculus, Global analysis in Dirichlet spaces, and more.
+* [Topology Atlas](http://at.yorku.ca/topology/) some specific branch of math that isn't discussed much
+* [Recreations in Math](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) - H. E. Licks (1917) this is a pretty interesting book, it goes over the history of math
+* [Magic Squares and Cubes](http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf) - W. S. Andrews (1917) goes over magic squares and their history, interesting but extra material
+* [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) advanced math book, not necessary
 
 # Lecture Notes
 

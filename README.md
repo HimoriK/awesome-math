@@ -11,12 +11,8 @@ A curated list of awesome mathematics resources.
     * [Youtube Series](#youtube-series)
     * [Tools](#tools)
     * [Books](#books)
-    * [Misc](#misc)
 * [Lecture Notes](#lecture-notes)
     * [Foundations of Mathematics](#foundations-of-mathematics)
-        * [Transition To Pure Rigour Math](#transition-to-pure-rigour-math)
-        * [Set Theory](#set-theory)
-        * [Logic](#logic)
     * [Number Theory](#number-theory)
     * [Algebra](#algebra)
     * [Combinatorics](#combinatorics)
@@ -69,14 +65,13 @@ A curated list of awesome mathematics resources.
 * [Singular](https://www.singular.uni-kl.de/) might be useful
 * [GNU Octave](https://www.gnu.org/software/octave/) maybe also useful, compatible with matlab
 * [Magma](http://magma.maths.usyd.edu.au/magma/)
-* [Matlab](https://www.mathworks.com/products/matlab.html)
 * [Free Math](https://freemathapp.org)
 * [CopyPasteMathjax](https://www.copypastemathjax.com/)
 
 ## Encyclopedia
 
 * [Encyclopedia of Mathematics](https://www.encyclopediaofmath.org)
-* [Planetmath](http://planetmath.org/)
+* [Planetmath](http://planetmath.org/) this is literally written in unorganized html, useless, if you want to punish someone, send them to this site. Someone seriously needs to reformat it, the worst part is some of the resources are probably actually good, but you gotta search-fu em. Gonna need a new list, or a few curated books.
 * [ProofWiki](https://proofwiki.org/wiki/Main_Page)
 
 ## Books
@@ -99,6 +94,7 @@ A curated list of awesome mathematics resources.
 ## Blogs
 
 * [BetterExplained](https://betterexplained.com/) - Maintained by Kalid Azad
+* [How to Become a Pure Math Statistician](https://hbpms.blogspot.com/) list of undergrad resources, 2012
 
 ## Misc
 * [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
@@ -114,9 +110,9 @@ A curated list of awesome mathematics resources.
 
 ### Set Theory
 
-* [Sets, Relations, Functions](http://www.cosc.brocku.ca/~duentsch/papers/methprimer1.html) - Ivo Düntsch, Günther Gediga
-* [An Introduction to Set Theory](http://www.math.toronto.edu/weiss/set_theory.pdf) - William A. R. Weiss
-* [Set Theory and Foundations of Mathematics](http://www.settheory.net/) - Sylvain Poirier
+* [Sets, Relations, Functions](http://www.cosc.brocku.ca/~duentsch/papers/methprimer1.html) same thing, but specific
+* [An Introduction to Set Theory](http://www.math.toronto.edu/weiss/set_theory.pdf) - William A. R. Weiss, kinda boring, but maybe important to read
+* [Set Theory and Foundations of Mathematics](http://www.settheory.net/) - Sylvain Poirier, at first I thought this was boring, but this might be a key resource for mathematics, due to the author's clear passion and respect for it, out of acknowledgement, it's worth reading
 * [Set Theory on the Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/entries/set-theory/)
 
 ### Logic

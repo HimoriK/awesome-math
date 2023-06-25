@@ -8,63 +8,28 @@ A curated list of awesome mathematics resources.
 
 * [Contents](#contents)
 * [General Resources](#general-resources)
-    * [Learning Platforms](#learning-platforms)
-    * [Learn to Learn](#learn-to-learn)
     * [Youtube Series](#youtube-series)
     * [Tools](#tools)
-    * [Questions and Answers](#questions-and-answers)
-    * [Encyclopedia](#encyclopedia)
     * [Books](#books)
-    * [Magazines](#magazines)
-    * [Blogs](#blogs)
     * [Misc](#misc)
 * [Lecture Notes](#lecture-notes)
     * [Foundations of Mathematics](#foundations-of-mathematics)
         * [Transition To Pure Rigour Math](#transition-to-pure-rigour-math)
         * [Set Theory](#set-theory)
         * [Logic](#logic)
-        * [Category Theory](#category-theory)
-        * [Type Theory](#type-theory)
-        * [Homotopy Type Theory](#homotopy-type-theory)
-        * [Surreal Numbers](#surreal-numbers)
     * [Number Theory](#number-theory)
-        * [Algebraic Number Theory](#algebraic-number-theory)
-        * [Analytic Number Theory](#analytic-number-theory)
     * [Algebra](#algebra)
-        * [Abstract Algebra](#abstract-algebra)
-        * [Group Theory](#group-theory)
-        * [Linear Algebra](#linear-algebra)
-        * [Ring Theory](#ring-theory)
-        * [Galois Theory](#galois-theory)
-        * [Lie Algebras](#lie-algebras)
     * [Combinatorics](#combinatorics)
         * [Graph Theory](#graph-theory)
     * [Geometry and Topology](#geometry-and-topology)
-        * [Differential Geometry](#differential-geometry)
-        * [Algebraic Geometry](#algebraic-geometry)
-        * [Topology](#topology)
-        * [Algebraic Topology](#algebraic-topology)
     * [Analysis](#analysis)
-        * [Real Analysis](#real-analysis)
-        * [Harmonic Analysis](#harmonic-analysis)
-        * [Complex Analysis](#complex-analysis)
-        * [Functional Analysis](#functional-analysis)
-        * [Measure Theory](#measure-theory)
-        * [Ordinary Differential Equations](#ordinary-differential-equations)
-        * [Partial Differential Equations](#partial-differential-equations)
     * [Probability and Statistics](#probability-and-statistics)
         * [Probability Theory](#probability-theory)
         * [Statistics](#statistics)
-        * [Statistical Learning](#statistical-learning)
-        * [Stochastic processes](#stochastic-processes)
     * [Numerical Analysis](#numerical-analysis)
-    * [Signal processing](#signal-processing)
     * [Mathematics for Computer Science](#mathematics-for-computer-science)
-    * [Mathematical Biology](#mathematical-biology)
     * [Mathematical Physics](#mathematical-physics)
 * [Students Lecture Notes](#students-lecture-notes)
-* [Related Awesome Lists](#related-awesome-lists)
-* [License](#license)
 
 <!-- END_TOC -->
 
@@ -74,7 +39,6 @@ A curated list of awesome mathematics resources.
 
 * [Khan Academy](https://www.khanacademy.org/math) free, used in many schools for practice, however confusing videos and limited plans
 * [Coursera](https://www.coursera.org/courses?query=mathematics&languages=en) 'free' courses
-* [Brilliant](https://brilliant.org/courses/#math-foundational) byte sized math (not much better than a book or khan academy)
 * [Calculus.org](http://calculus.org/) various links to calculus resources
 * [Ximera](https://ximera.osu.edu/) : free interactive mathematics textbooks (Ohio State University)
 * [MathRelay](https://www.mathrelay.com/) serious site with solutions and video
@@ -84,8 +48,7 @@ A curated list of awesome mathematics resources.
 * [Understanding Mathematics](https://github.com/nelson-brochado/understanding-math)
 
 ## Youtube Series
-
-* [Brandon Foltz](https://www.youtube.com/@BrandonFoltz) statistics
+* [YoutubePlaylistCalc](https://addons.mozilla.org/en-US/firefox/addon/youtube-playlist-duration-calc/) [Save time by seeing it](https://www.playlistlength.com/), use 'YouTube Speed Controller'
 * [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) statistics, and some AI stuff
 * [3Blue1Brown](https://www.youtube.com/@3blue1brown) some good videos
 * [Professor Leonard](https://www.youtube.com/@ProfessorLeonard)
@@ -94,32 +57,20 @@ A curated list of awesome mathematics resources.
   * [Calculus 2](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-)
   * [Calculus 3](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
   * [Differential Equations](https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
-  * [To The Point Math](https://www.youtube.com/playlist?list=PLDesaqWTN6ETc1ZwHWijCBcZ2gOvS2tTN)
-* [Crash Course](https://www.youtube.com/@crashcourse)
-* [Mathologer](https://www.youtube.com/@Mathologer)
-* [The Math District](https://www.youtube.com/@TheMathDistrict)
-* [Mathematical Monk](https://www.youtube.com/@mathematicalmonk)
+  * [To The Point Math](https://www.youtube.com/playlist?list=PLDesaqWTN6ETc1ZwHWijCBcZ2gOvS2tTN) his breakdown from algebra to calc
+* [The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor/playlists) imo, him and Leonard are the only 2 channels. TOCT teaches every subject efficiently.
+* [Mathematical Monk](https://www.youtube.com/@mathematicalmonk) interesting byte-sized scientific maths (2010), check probability playlist
 
 ## Tools
 
-* [Symbolab](https://www.symbolab.com/)
 * [Desmos](https://www.desmos.com/calculator)
-* [Math Words](http://www.mathwords.com/)
-* [Wolfram Alpha](http://www.wolframalpha.com/)
-* [Maxima](https://maxima.sourceforge.io/)
 * [Sympy](https://www.sympy.org/)
 * [Sagemath](http://www.sagemath.org/)
-* [Unit Converter](https://unitconverters.net)
-* [GeoGebra](https://www.geogebra.org/?lang=en)
-* [Macaulay2](http://www2.macaulay2.com/Macaulay2/)
-* [Singular](https://www.singular.uni-kl.de/)
-* [GNU Octave](https://www.gnu.org/software/octave/)
+* [Singular](https://www.singular.uni-kl.de/) might be useful
+* [GNU Octave](https://www.gnu.org/software/octave/) maybe also useful, compatible with matlab
 * [Magma](http://magma.maths.usyd.edu.au/magma/)
-* [Maple](https://www.maplesoft.com/products/Maple/)
 * [Matlab](https://www.mathworks.com/products/matlab.html)
-* [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
 * [Free Math](https://freemathapp.org)
-* [xhub](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
 * [CopyPasteMathjax](https://www.copypastemathjax.com/)
 
 ## Encyclopedia
@@ -140,33 +91,26 @@ A curated list of awesome mathematics resources.
 * [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
 
 ## Magazines
-
-* [Quanta Magazine](https://www.quantamagazine.org/mathematics/) - Features latest research breakthroughs in an accessible style for non-experts. 
-* [Bulletin of the American Mathematical Society](https://www.ams.org/journals/bull/all_issues.html) - Expository articles on contemporary mathematical research, written in a way that gives insight to mathematicians who may not be experts in the particular topic.
-* [Notices of the American Mathematical Society](http://www.ams.org/cgi-bin/notices/amsnotices.pl?article_id=fullissue&article_type=gallery&gallery_type=fullissue) - Publicizes activities of the Society and features surveys, reports, news, announcements, and opinions on industry trends, academia, and research.
-* [European Mathematical Society Magazine](https://euromathsoc.org/magazine) - The Magazine features announcements about meetings and conferences, articles outlining current trends in scientific development, reports on member societies, and many other informational items.
-* [Mathematics Today by Institute of Mathematics and its Applications](https://ima.org.uk/publications/mathematics-today/) - News, opinions, and articles related to mathematics, so the reader stays updated.
-* [Crux Mathematicorum by Canadian Mathematical Society](https://cms.math.ca/publications/crux/) - source of unique and challenging mathematical problems designed for the secondary and undergraduate levels. It includes an Olympiad Corner which is helpful for math competitions.
+ 
+* [Bulletin of the American Mathematical Society](https://www.ams.org/journals/bull/all_issues.html) - Expository articles on contemporary mathematical research, written in a way that gives insight to mathematicians who may not be experts in the particular topic. Useful, many articles dating back to early 1900s
+* [Mathematics Today by Institute of Mathematics and its Applications](https://ima.org.uk/publications/mathematics-today/) - News, opinions, and articles related to mathematics, so the reader stays updated. Interesting posts
+* [Crux Mathematicorum by Canadian Mathematical Society](https://cms.math.ca/publications/crux/) - source of unique and challenging mathematical problems designed for the secondary and undergraduate levels. It includes an Olympiad Corner which is helpful for math competitions. Hyper-organized open resources
 
 ## Blogs
 
 * [BetterExplained](https://betterexplained.com/) - Maintained by Kalid Azad
-* [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev (Professor of mathematics at Marshall University, Huntington WV, USA)
 
 ## Misc
 * [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
-* [List of electronic textbooks](http://faculty.atu.edu/mfinan/nnotes.html) - Marcel B. Finan (Arkansas Tech University)
-* [Topology Atlas](http://at.yorku.ca/topology/) some specific branch of math that isn't discussed much
+* [List of electronic textbooks](http://faculty.atu.edu/mfinan/nnotes.html) - Marcel B. Finan (Arkansas Tech University) some old resources, 2003-2020?
 * [Recreations in Math](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) - H. E. Licks (1917) this is a pretty interesting book, it goes over the history of math
 * [Magic Squares and Cubes](http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf) - W. S. Andrews (1917) goes over magic squares and their history, interesting but extra material
-* [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) advanced math book, not necessary
 
 # Lecture Notes
 
 ## Foundations of Mathematics
 ### Transition To Pure Rigour Math
 * [Basic Concepts of Mathematics](http://www.trillia.com/zakon1.html) - Elias Zakon
-* [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/) - Richard Hammak (Virginia Commonwealth University)
 
 ### Set Theory
 
@@ -386,20 +330,17 @@ A curated list of awesome mathematics resources.
 
 ### Real Analysis
 
-* [MIT OpenCourseWare Lectures on Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - G. Strang
 * [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/~keisler/calc.html) - Professor H. Jerome Keisler
 * [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) - John K. Hunter (University of California at Davis)
 * [Introduction to Real Analysis](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF) - William F. Trench (Trinity University, Texas)
 * [Basic Analysis: Introduction to Real Analysis](http://www.jirka.org/ra/realanal.pdf) - Jiří Lebl
 * [Elementary Real Analysis](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/stuff/tbb-hyper.pdf) - Thomson, Bruckner
 * [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) - Eric T. Sawyer (McMaster University)
-* [Real Analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C. McMullen
-* [Real Analysis for Graduate Students](http://bass.math.uconn.edu/3rd.pdf) - Richard F. Bass
 * [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) - William P. Ziemer (Indiana University)
 * [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
 * [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) - Elias Zakon
 * [Advanced Calculus](http://www.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf) - Lynn Loomis, Schlomo Sternberg
-* [ Analysis of Functions of a Single Variable](http://spot.colorado.edu/~baggett/analysis.html) - Lawerence Baggett
+* [Analysis of Functions of a Single Variable](http://spot.colorado.edu/~baggett/analysis.html) - Lawerence Baggett
 * [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/) - Dan Sloughter
 * [A ProblemText in Advanced Calculus](http://web.pdx.edu/~erdman/PTAC/problemtext_pdf.pdf) - John M. Erdman
 * [Calculus and Linear Algebra. Vol. 1](http://hdl.handle.net/2027/spo.5597602.0001.001) - Wilfred Kaplan, Donald J. Lewis
@@ -407,7 +348,7 @@ A curated list of awesome mathematics resources.
 * [Introduction to Calculus I and II](http://www.math.odu.edu/~jhh/counter10.html) - J.H. Heinbockel
 * [Active Calculus](http://faculty.gvsu.edu/boelkinm/Home/Active_Calculus.html) - Matt Boelkins
 * [Supplements to the Exercises in Chapters 1-7 of Walter Rudin's "Principles of Mathematical Analysis"](https://math.berkeley.edu/~gbergman/ug.hndts/#Rudin) - George M. Bergman
-* [Calculus Made Easy](http://calculusmadeeasy.org/) - Silvanus P. Thompson (1910)
+* [Calculus Made Easy](http://calculusmadeeasy.org/) - Silvanus P. Thompson (1910) **Important**
 * [Elements of Differential and Integral Calculus](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) - William Anthony Granville (1911)
 * [Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) - Carl Stitz, Jeff Zeager
 
@@ -481,7 +422,6 @@ A curated list of awesome mathematics resources.
 ### Probability Theory
 
 * [Introduction to Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) - Charles M. Grinstead, J. Laurie Snell
-* [Introduction to Probability](http://vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) - Dimitri P. Bertsekas, John N. Tsitsiklis (MIT)
 * [A Short Introduction to Probability](http://www.maths.uq.edu.au/~kroese/asitp.pdf) - Dirk P. Kroese (University of Queensland)
 * [Probability: Theory and Examples](https://www.math.duke.edu/~rtd/PTE/PTE4_1.pdf) - Rick Durrett
 * [Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley)
@@ -494,15 +434,12 @@ A curated list of awesome mathematics resources.
 * [Lecture Notes on Statistical Theory](http://homepages.math.uic.edu/~rgmartin/Teaching/Stat411/Notes/411notes.pdf) - Ryan Martin (University of Illinois)
 * [Introduction to Statistics and Data Analysis for Physicists](http://www-library.desy.de/preparch/books/vstatmp_engl.pdf) - Gerhard Bohm, Günter Zech
 * [Probability and Mathematical Statistics](http://www.iiserpune.ac.in/~ayan/MTH201/Sahoo_textbook.pdf) - Prasanna Sahoo (University of Louisville)
-* [Lectures on Statistics](http://math.arizona.edu/~faris/stat.pdf) - William G. Faris
 * [Statistical Theory](http://pages.pomona.edu/~ajr04747/Fall2009/Math152/Notes/Math152NotesFall09.pdf) - Adolfo J. Rumbos
 * [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle (George Mason University)
-* [Theory of Statistics](http://math.arizona.edu/~jwatkins/notests.pdf) - Joseph C. Watkins (University of Arizona)
 * [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
 * [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - List of statistics papers curated by the Institute for Digital Research and Education (IDRE) at UCLA on methods such as bootstrap and factor invariance.
 * [NIST Handbook of Statistical Methods](http://itl.nist.gov/div898/handbook/index.htm) - Resource on practical statistics directed towards scientists and engineers.
 * [Concepts and Applications of Inferential Statistics](http://vassarstats.net/textbook/) - Richard Lowry
-* [Rough set data analysis: A road to non-invasive knowledge discovery](http://www.cosc.brocku.ca/~duentsch/papers/methprimer2.html) - Ivo Düntsch, Günther Gediga
 * [Statistical Thinking for the 21st Century](https://statsthinking21.org/) - Russell A. Poldrack
 * [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg
 * [Seeing Theory](https://seeing-theory.brown.edu/) - Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang
@@ -565,10 +502,6 @@ A curated list of awesome mathematics resources.
 * [Introduction to Continuum Mechanics](http://oaktrust.library.tamu.edu/handle/1969.1/2501) - Ray. M. Bowen
 * [Mathematical Tools for Physics](http://www.physics.miami.edu/nearing/mathmethods/) - James Nearing
 * [Mechanism of the Heavens (1831)](http://www.malaspina.com/etext/heavens.htm) - Mary Somerville
-
-# Students Lecture Notes
-* [Evan Chen](https://web.evanchen.cc/coursework.html) - MIT. 2012 ~ 2018. Covers Combinatorics, Number Theory, Honors Algebra, Set Theory, Real Analysis, Graph Theory, and more.
-* [Dexter Chua](https://dec41.user.srcf.net/notes/) - Harvard. 2013 ~ 2018. Covers Analysis, Probability, Linear Algebra, Complex Analysis, Numerical Analysis, Statistics, Optimization, Algebraic Topology, Quantum Field Theory, and more.
 
 # Related Awesome Lists
 * [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science)

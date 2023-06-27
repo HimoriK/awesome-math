@@ -112,24 +112,18 @@ A curated list of awesome mathematics resources.
 
 * [Sets, Relations, Functions](http://www.cosc.brocku.ca/~duentsch/papers/methprimer1.html) same thing, but specific
 * [An Introduction to Set Theory](http://www.math.toronto.edu/weiss/set_theory.pdf) - William A. R. Weiss, kinda boring, but maybe important to read
-* [Set Theory and Foundations of Mathematics](http://www.settheory.net/) - Sylvain Poirier, at first I thought this was boring, but this might be a key resource for mathematics, due to the author's clear passion and respect for it, out of acknowledgement, it's worth reading
-* [Set Theory on the Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/entries/set-theory/)
 
 ### Logic
 
-* [Introduction to Logic](https://pdfs.semanticscholar.org/6967/f52773d9c2ccfc94658657a5761e0f00e95a.pdf) - Michael Genesereth, Eric Kao (Stanford University)
 * [An Introduction to Formal Logic](https://www.fecundity.com/codex/forallx.pdf) - P.D. Magnus (University at Albany)
 * [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) - Stefan Bilaniuk (Trent University)
-* [Computability - An introduction to recursive function theory](http://poincare.matf.bg.ac.rs/~zarkom/Book_Math__Cutland_Computability.pdf) - Nigel Cutland (University of Hull)
-* [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) - Jon Barwise, John Etchemendy
-* [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) - Helmut Schwichtenberg
-* [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (Pennsylvania State University)
-* [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
-* [Predictive Arithmetic](https://web.math.princeton.edu/~nelson/books/pa.pdf) - Edward Nelson
-* [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) - Joy Morris, Dave Morris
-* [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathreasoning) - Ted Sundstrom
-* [Logic and Proof](http://leanprover.github.io/logic_and_proof/) -  Jeremy Avigad, Robert Y. Lewis, and Floris van Doorn
-* [QED - an interactive textbook](https://teorth.github.io/QED) - Terence Tao
+* [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) advanced text on 'logic'
+* [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) brief 
+* [Predictive Arithmetic](https://web.math.princeton.edu/~nelson/books/pa.pdf) old book, maybe useful?
+* [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) easy intro to proofs book, 2016
+* [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf) ok proofs book
+* [Logic and Proof](http://leanprover.github.io/logic_and_proof/) another good intro 
+* [QED - an interactive textbook](https://teorth.github.io/QED) don't like this UI
 * [Open Logic Textbook](http://builds.openlogicproject.org/) - collaborative effort, main contributors listed [here](https://openlogicproject.org/people/)
 
 ### Category Theory

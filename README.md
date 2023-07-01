@@ -70,20 +70,17 @@ A curated list of awesome mathematics resources.
 
 ## Encyclopedia
 
-* [Encyclopedia of Mathematics](https://www.encyclopediaofmath.org)
 * [Planetmath](http://planetmath.org/) this is literally written in unorganized html, useless, if you want to punish someone, send them to this site. Someone seriously needs to reformat it, the worst part is some of the resources are probably actually good, but you gotta search-fu em. Gonna need a new list, or a few curated books.
-* [ProofWiki](https://proofwiki.org/wiki/Main_Page)
 
 ## Books
 
 * [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) - L.V. Tarasov
-* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (University of Pennsylvania)
+* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (University of Pennsylvania) TOME, pretty good
 * [Multivariable Calculus](http://people.math.gatech.edu/%7Ecain/notes/calculus.html) - G. Cain, J. Herod (Georgia Tech)
-* [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 * [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
 * [Free Mathematics Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
-* [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
+* [Trigonometry](https://www.mecmath.net/trig/Trigonometry.pdf)
 
 ## Magazines
  
@@ -97,7 +94,6 @@ A curated list of awesome mathematics resources.
 * [How to Become a Pure Math Statistician](https://hbpms.blogspot.com/) list of undergrad resources, 2012
 
 ## Misc
-* [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
 * [List of electronic textbooks](http://faculty.atu.edu/mfinan/nnotes.html) - Marcel B. Finan (Arkansas Tech University) some old resources, 2003-2020?
 * [Recreations in Math](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) - H. E. Licks (1917) this is a pretty interesting book, it goes over the history of math
 * [Magic Squares and Cubes](http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf) - W. S. Andrews (1917) goes over magic squares and their history, interesting but extra material
@@ -123,7 +119,6 @@ A curated list of awesome mathematics resources.
 * [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) easy intro to proofs book, 2016
 * [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf) ok proofs book
 * [Logic and Proof](http://leanprover.github.io/logic_and_proof/) another good intro 
-* [QED - an interactive textbook](https://teorth.github.io/QED) don't like this UI
 * [Open Logic Textbook](http://builds.openlogicproject.org/) - collaborative effort, main contributors listed [here](https://openlogicproject.org/people/)
 
 ### Category Theory
@@ -219,7 +214,6 @@ A curated list of awesome mathematics resources.
 * [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
 * [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
 * [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
-* [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 * [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
 * [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
@@ -237,10 +231,8 @@ A curated list of awesome mathematics resources.
 
 ### Galois Theory
 
-* [An Introduction to Galois Theory](http://www.maths.gla.ac.uk/~ajb/dvi-ps/Galois.pdf) - Andrew Baker (University of Glasgow)
+* [An Introduction to Galois Theory](https://dl.icdst.org/pdfs/files3/7d5ec14b8111cb1c6eab9a95b561babb.pdf) - Andrew Baker (University of Glasgow)
 * [Fields and Galois Theory](http://www.jmilne.org/math/CourseNotes/FT.pdf) - J.S. Milne
-* [Galois theory](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf) - Miles Reid
-* [Galois Theory](https://math.illinoisstate.edu/schebol/teaching/407-14-files/Stewart-galois_theory.pdf) - Ian Stewart
 
 ### Lie Algebras
 

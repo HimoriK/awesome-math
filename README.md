@@ -450,12 +450,9 @@ A curated list of awesome mathematics resources.
 
 ## Numerical Analysis
 
-* [Introduction to Numerical Analysis](http://www.math.umd.edu/~dlevy/resources/notes.pdf) - Doron Levy (University of Maryland)
-* [A Concise Introduction to Numerical Analysis](http://www.ima.umn.edu/~arnold/597.00-01/nabook.pdf) - Douglas N. Arnold (University of Minnesota)
-* [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) - L. Ridgway Scott
-* [Lectures In Basic Computational Numerical Analysis](http://www.engr.uky.edu/~acfd/egr537-lctrs.pdf) - J. M. McDonough (University of Kentucky)
-* [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
-* [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/nm/) - Douglas Wilhelm Harder
+* [Introduction to Numerical Analysis](http://www.math.umd.edu/~dlevy/resources/notes.pdf) Clear notes
+* [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) concise, good intro with examples
+* [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](https://user.math.uni-bremen.de/schmi/SS04/YSU_Notes.pdf) Advanced but details application of mathematical modeling
 
 
 ## Signal processing
@@ -469,11 +466,10 @@ A curated list of awesome mathematics resources.
 
 ## Mathematics for Computer Science
 
-* [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer
-* [Algorithms and Complexity](http://www.math.upenn.edu/%7Ewilf/AlgComp3.html) - H. Wilf
-* [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) - Pravin Varaiya
-* [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) - David J. C. MacKay
-* [The Chaos Textbook: Mathematics in the age of the computer](https://hypertextbook.com/chaos/) - Glenn Elert
+* [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) - Good reference, brief 2015
+* [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) grad level
+* [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) good intro book, pair with prerquisite
+* [Chaos: Classical and Quantum](https://chaosbook.org/chapters/ChaosBook.pdf) wacky writing/book, maybe something interesting
 
 ## Mathematical Biology
 
@@ -484,12 +480,3 @@ A curated list of awesome mathematics resources.
 * [Introduction to Continuum Mechanics](http://oaktrust.library.tamu.edu/handle/1969.1/2501) - Ray. M. Bowen
 * [Mathematical Tools for Physics](http://www.physics.miami.edu/nearing/mathmethods/) - James Nearing
 * [Mechanism of the Heavens (1831)](http://www.malaspina.com/etext/heavens.htm) - Mary Somerville
-
-# Related Awesome Lists
-* [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science)
-
-# License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Cyrille Rossant](http://cyrille.rossant.net) has waived all copyright and related or neighboring rights to this work.

@@ -136,43 +136,32 @@ A curated list of awesome mathematics resources.
 
 ## Number Theory
 
-* [Elementary Number Theory: Primes, Congruences, and Secrets](http://wstein.org/ent/ent.pdf) - William Stein
-* [Elementary Number Theory](http://math.utoledo.edu/~codenth/Spring_13/3200/ENT-books/Elementary_Number_Theory-Clark.pdf) - W. Edwin Clark (University of South Florida)
-* [A Course on Number Theory](http://www.maths.qmul.ac.uk/~pjc/notes/nt.pdf) - Peter J. Cameron
-* [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/ntb-v2.pdf) - Victor Shoup
-* [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
-* [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser
-* [Yet Another Introductary Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
+* [Elementary Number Theory](http://math.utoledo.edu/~codenth/Spring_13/3200/ENT-books/Elementary_Number_Theory-Clark.pdf) ok text
+* [A Course on Number Theory](http://www.maths.qmul.ac.uk/~pjc/notes/nt.pdf) light text on number theory
+* [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) interesting text, although font sucks
+* [Yet Another Introductary Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt.pdf) pretty good introductory text
 
 ### Algebraic Number Theory
 
-* [Introduction to Algebraic Number Theory](http://www1.spms.ntu.edu.sg/~frederique/ANT10.pdf)
-* [Introduction to Algebraic Number Theory](http://www1.spms.ntu.edu.sg/~frederique/ANT10.pdf) - F. Oggier
-* [Algebraic Number Theory](http://www.jmilne.org/math/CourseNotes/ANT.pdf) - J.S. Milne
-* [Algebraic Number Theory Course Notes](http://people.math.gatech.edu/~mbaker/pdf/ANTBook.pdf) - Matthew Baker (Georgia Tech)
-* [A Course In Algebraic Number Theory](http://www.math.uiuc.edu/~r-ash/ANT.html) - Robert Ash
+* [Introduction to Algebraic Number Theory](https://feog.github.io/ANT10.pdf) - F. Oggier interesting stuff, worth reading
+* [Algebraic Number Theory](http://www.jmilne.org/math/CourseNotes/ANT.pdf) edited many times, worth reading at some point
+* [A Course In Algebraic Number Theory](https://github.com/HimoriK/awesome-math/files/11938549/Algebraic-Number-Theory_Robert_Ash.pdf)
 
 ### Analytic Number Theory
 
-* [Introduction to Analytic Number Theory](http://www.math.uiuc.edu/~hildebr/ant/main.pdf) - A.J. Hildebrand (University of Illinois)
-* [Elements of Analytic Number Theory](http://math.nsc.ru/~vdovin/lectures/numth_eng.pdf) - P. S. Kolesnikov, E. P. Vdovin (Novosibirsk)
-* [Analytic Number Theory](http://www.mathematik.uni-muenchen.de/~forster/v/ann/annth_all.pdf) - Otto Forster (LMU Munich)
-* [Analytic Number Theory - Lecture Notes based on Davenport’s book](http://www2.math.uu.se/~astrombe/analtalt08/www_notes.pdf) - Andreas Strömbergsson
-
+* [Introduction to Analytic Number Theory](http://www.math.uiuc.edu/~hildebr/ant/main.pdf) ok text w notation
+* [Elements of Analytic Number Theory](http://math.nsc.ru/~vdovin/lectures/numth_eng.pdf) organized
 
 ## Algebra
 
 ### Abstract Algebra
 
-* [Introduction to Abstract Algebra](https://zodml.org/sites/default/files/Introduction_to_Abstract_Algebra_0.pdf) - D. S. Malik, John N. Mordeson, M.K. Sen (Creighton University)
-* [Introduction to Modern Algebra](http://aleph0.clarku.edu/~djoyce/ma225/algebra.pdf) - David Joyce (Clark University)
-* [Algebraic Methods](http://www1.spms.ntu.edu.sg/~frederique/AA11.pdf) - F. Oggier
-* [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) - Thomas W. Judson, Robert A. Beezer (Austin State University)
-* [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Robert Howlett
-* [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami)
-* [Abstract Algebra: The Basic Graduate Year](http://www.math.uiuc.edu/~r-ash/Algebra.html) - Robert Ash
-* [Abstract Algebra: Harvard Extension (Archived)](https://web.archive.org/web/20150528171650/extension.harvard.edu/open-learning-initiative/abstract-algebra) - Benedict Gross
-* [Abstract Algebra: Harvard Extension Videos](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3) - Benedict Gross
+* [Introduction to Abstract Algebra](https://github.com/HimoriK/awesome-math/files/11939661/MTH_581-582_Introduction_to_Abstract_Algebra.pdf) Introductory text with notation
+* [Introduction to Modern Algebra](http://aleph0.clarku.edu/~djoyce/ma225/algebra.pdf) Clear text, must read
+* [Algebraic Methods](https://feog.github.io/AA11.pdf) - F. Oggier (Check their extra works at their .io domain)
+* [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Robert Howlett Author tried to make the subject understandable
+* [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami) Pretty good intro that eases into to both subjects
+* [Abstract Algebra: Harvard Extension Videos](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3) - Benedict Gross (haven't checked, not a fan of videos though)
 
 ### Group Theory
 
@@ -183,20 +172,15 @@ A curated list of awesome mathematics resources.
 
 ### Linear Algebra
 
-* [Fundamentals of Linear Algebra](http://www.math.ubc.ca/~carrell/NB.pdf) - James B. Carrell
-* [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
-* [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
-* [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
-* [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
+* [Fundamentals of Linear Algebra](http://www.math.ubc.ca/~carrell/NB.pdf) - James B. Carrell good
+* [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch good
+* [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett interesting text, watermarked
+* [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon font sucks, but ok
 * [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
-* [Introduction to vectors and tensors, Vol 1: linear and multilinear algebra](http://oaktrust.library.tamu.edu/handle/1969.1/2502) - Ray M Bowen, C. C. Wang
-* [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - Ray M Bowen, C. C. Wang
-* [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA)
-* [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf) - Sergei Treil
-* [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller
-* [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit and Joseph Rabinoff
-* [Linear Algebra, Infinite Dimensions, and Maple](https://people.math.gatech.edu/~herod/Hspace/Hspace.html) - James Herod
+* [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA) This book is pretty good
+* [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller Interesting way to teach the subject, and isn't swarmed with words
+* [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit and Joseph Rabinoff Read the PDF, the site can be confusing, text heavy, in depth
 
 ### Ring Theory
 

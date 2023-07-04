@@ -211,37 +211,20 @@ A curated list of awesome mathematics resources.
 
 ## Geometry and Topology
 
-* [Fundamentals of Geometry](http://polly.phys.msu.ru/~belyaev/geometry.pdf) - Oleg A. Belyaev
 * [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger
-* [Elements](http://aleph0.clarku.edu/~djoyce/java/elements/toc.html) - Euclid
-* [Euclid's Elements Redux](http://starrhorse.com/euclid/) - Daniel Callahan
-* [Mathematical Illustrations](http://www.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman
-* [Byrne's Euclid](https://www.c82.net/euclid/) - Oliver Byrne
-* [Plane Geometry](http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) - George Wentworth and David Eugene Smith (1913)
 * [Planes and Spherical Trigonometry](http://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf) - George Wentworth and David Eugene Smith (1915)
-* [Coordinate Geometry](http://djm.cc/library/Coordinate_Geometry_Fine_Thompson_edited03.pdf) - Henry Buchard Fine and Henry Dallas Thompson (1911)
 * [Analytic Geometry](http://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf) - Lewis Parker Siceloff, George Wentworth, David Eugene Smith (1922)
 
 ### Differential Geometry
 
-* [Introduction to Differential Geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) - Joel W. Robbin, Dietmar A. Salamon
-* [Notes on Differential Geometry and Lie Groups](http://www.seas.upenn.edu/~jean/diffgeom.pdf) - Jean Gallier (University of Pennsylvania)
-* [Topics in Differential Geometry](http://www.mat.univie.ac.at/~michor/dgbook.pdf) - Peter W. Michor
-* [Lectures on Differential Geometry](http://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf) - Wulf Rossmann
-* [An Introduction to Riemannian Geometry](http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf) - Sigmundur Gudmundsson (Lund University)
-* [The Geometry and Topology of Three-Manifolds](http://msri.org/publications/books/gt3m/) - W. Thurston
-* [Semi-Riemann Geometry and General Relativity](http://www.math.harvard.edu/~shlomo/docs/semi_riemannian_geometry.pdf) - Shlomo Sternberg
-* [Discrete Differential Geometry](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf) - Keenan Crane
+* [Lectures on Differential Geometry](http://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf) - Wulf Rossmann good to read at some point
+* [Semi-Riemann Geometry and General Relativity](http://www.math.harvard.edu/~shlomo/docs/semi_riemannian_geometry.pdf) - Shlomo Sternberg advanced 
 
 ### Algebraic Geometry
 
-* [A Brief Introduction to Algebraic Geometry](https://ksda.ccny.cuny.edu/PostedPapers/rickksda1107.pdf) - R.C. Churchill
-* [Introduction to Algebraic Geometry](http://www.math.lsa.umich.edu/~idolga/631.pdf) - Igor V. Dolgachev
-* [Foundations of Algebraic Geometry](http://math.stanford.edu/~vakil/216blog/FOAGjun1113public.pdf) - Ravi Vakil
-* [Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeoms.pdf) - Jean Gallier, Stephen S. Shatz (University of Pennsylvania)
-* [Algebraic Geometry](http://www.jmilne.org/math/CourseNotes/AG.pdf) - J.S. Milne
-* [Algebraic Geometry](http://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2002/main.pdf) - Andreas Gathmann (University of Kaiserslautern)
-* [The Stacks Project](https://stacks.math.columbia.edu/) - Maintained by Aise Johan de Jong (Columbia)
+* [Introduction to Algebraic Geometry](http://www.math.lsa.umich.edu/~idolga/631.pdf) - Igor V. Dolgachev mid read
+* [Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeoms.pdf) - Jean Gallier, Stephen S. Shatz (University of Pennsylvania) ok text
+* [Algebraic Geometry](http://www.jmilne.org/math/CourseNotes/AG.pdf) - J.S. Milne straightforward
 
 ### Topology
 
@@ -331,17 +314,7 @@ A curated list of awesome mathematics resources.
 
 ### Ordinary Differential Equations
 
-* [Difference Equations To Differential Equations](http://www.synechism.org/wp/difference-equations-to-differential-equations/) - Dan Sloughter
-* [Ordinary Differential Equation](https://www.math.uni-bielefeld.de/~grigor/odelec2008.pdf) - Alexander Grigorian (University of Bielefeld)
-* [Ordinary Differential Equations: Lecture Notes](http://www.cs.bgu.ac.il/~leonid/ode_bio_files/Ionascu_LectNotes.pdf) - Eugen J. Ionascu
-* [Ordinary Differential Equations](http://www.math.lmu.de/~philip/publications/lectureNotes/ODE.pdf) - Peter Philip
-* [Ordinary Differential Equations](http://users.math.msu.edu/users/gnagy/teaching/ode.pdf) - Gabriel Nagy
-* [Ordinary Differential Equations and Dynamical Systems](http://www.mat.univie.ac.at/~gerald/ftp/book-ode/ode.pdf) - Gerald Teschl
-* [Notes on Differential Equations](http://leipper.org/manuals/zip-fill/dn-difeq-notes.pdf) - Bob Terrell
-* [Elementary Differential Equations](http://digitalcommons.trinity.edu/mono/8/) - William F. Trench
-* [Elementary Differential Equations With Boundary Value Problems](http://digitalcommons.trinity.edu/mono/9/) - William F. Trench
-* [Notes on Diffy Qs: Differential Equations for Engineers](http://www.jirka.org/diffyqs/) - Jiří Lebl
-* [Differential Equations](http://djm.cc/library/Differential_Equations_Phillips_edited.pdf) - H. B. Phillips (1922)
+* [Elementary Differential Equations With Boundary Value Problems](https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1008&context=mono) - William F. Trench pretty good text
 
 ### Partial Differential Equations
 
@@ -354,13 +327,10 @@ A curated list of awesome mathematics resources.
 
 ### Probability Theory
 
-* [Introduction to Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) - Charles M. Grinstead, J. Laurie Snell
-* [A Short Introduction to Probability](http://www.maths.uq.edu.au/~kroese/asitp.pdf) - Dirk P. Kroese (University of Queensland)
-* [Probability: Theory and Examples](https://www.math.duke.edu/~rtd/PTE/PTE4_1.pdf) - Rick Durrett
-* [Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley)
-* [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - William Chen
-* [An Introduction to Probability and Random Processes](http://www.ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) - Gian-Carlo Rota, Kenneth Baclawski
-* [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan
+* [A Short Introduction to Probability](http://www.maths.uq.edu.au/~kroese/asitp.pdf) - Dirk P. Kroese (University of Queensland) good intro
+* [Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley) cookbook cheatsheet
+* [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - William Chen pretty good, also check (Introduction To Probability)[[zlib.pub_introduction-to-probability.pdf](https://github.com/HimoriK/awesome-math/files/11949625/introduction-to-probability.pdf)
+* [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan ok text
 
 ### Statistics
 

@@ -45,7 +45,7 @@ A curated list of awesome mathematics resources.
 
 ## Recommended List
 
-* [Advanced Algebra v 1.0](https://2012books.lardbucket.org/pdfs/advanced-algebra.pdf) Tome, good reference
+* [Advanced Algebra v 1.0](https://2012books.lardbucket.org/pdfs/advanced-algebra.pdf) **Tome**, good reference
 * [Trig Worksheet](https://www.trigcheatsheet.com/) diagram worksheet
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/ila.pdf) great book, 450 pages
 * [Tea Time Linear Algebra](https://raw.githubusercontent.com/lqbrin/tea-time-linear/main/TeaTimeLinearAlgebra-edition02.pdf) best book possibly
@@ -56,7 +56,7 @@ A curated list of awesome mathematics resources.
 * [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/GIAM.pdf) 'intro to proofs'
 * [Grinstead and Snell's Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) good book, mentioned everywhere
 * [Probability for the Enthusiastic Beginner](https://github.com/HimoriK/awesome-math/files/11968627/Probability2016.pdf) intense 'beginner' book
-* [Modern Statistical Thinking](https://statsthinking21.github.io/statsthinking21-core-site)
+* [Modern Statistical Thinking](https://statsthinking21.github.io/statsthinking21-core-site) 
 * [Vector Calculus](https://mecmath.net/VectorCalculus.pdf) 'calc3'
 * [Measure, Integration & Real Analysis](https://measure.axler.net/MIRA.pdf) difficult text
   
@@ -284,10 +284,9 @@ A curated list of awesome mathematics resources.
 ### Harmonic Analysis
 
 * [Harmonic Analysis Lecture Notes](http://www.math.uiuc.edu/~laugesen/545/545Lectures.pdf) - Richard S. Laugesen (University of Illinois at Urbana–Champaign)
-* [Harmonic Analysis](http://www.math.uchicago.edu/~schlag/harmonicnotes.pdf) - W. Schlag
-* [Lecture Notes: Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf) - Brad Osgood
-* [Fourier Analysis](http://www.reed.edu/physics/courses/Physics331.f08/pdf/Fourier.pdf) - Lucas Illing
-* [Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications](https://ccrma.stanford.edu/~jos/mdft) - Julius O. Smith III (Stanford University)
+* [Lecture Notes: Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf) Well explained, in depth
+* [Fourier Analysis](http://www.reed.edu/physics/courses/Physics331.f08/pdf/Fourier.pdf) - Lucas Illing good as a starting point, 20pgs 
+* [Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications](https://ccrma.stanford.edu/~jos/mdft) html, but organized, might replace
 
 ### Complex Analysis
 

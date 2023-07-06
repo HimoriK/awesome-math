@@ -34,7 +34,7 @@ A curated list of awesome mathematics resources.
 ## Learning Platforms
 
 * [Khan Academy](https://www.khanacademy.org/math) free, used in many schools for practice, however confusing videos and limited plans
-* [Coursera](https://www.coursera.org/courses?query=mathematics&languages=en) 'free' courses
+* [OpenAlgebra](https://www.openalgebra.com/) free, links to short videos 
 * [Calculus.org](http://calculus.org/) various links to calculus resources
 * [Ximera](https://ximera.osu.edu/) : free interactive mathematics textbooks (Ohio State University)
 * [MathRelay](https://www.mathrelay.com/) serious site with solutions and video
@@ -42,6 +42,24 @@ A curated list of awesome mathematics resources.
 ## Learn to Learn
 
 * [Understanding Mathematics](https://github.com/nelson-brochado/understanding-math)
+
+## Recommended List
+
+* [Advanced Algebra v 1.0](https://2012books.lardbucket.org/pdfs/advanced-algebra.pdf) Tome, good reference
+* [Trig Worksheet](https://www.trigcheatsheet.com/) diagram worksheet
+* [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/ila.pdf) great book, 450 pages
+* [Tea Time Linear Algebra](https://raw.githubusercontent.com/lqbrin/tea-time-linear/main/TeaTimeLinearAlgebra-edition02.pdf) best book possibly
+* [Linear Algebra 4th Edtion](https://joshua.smcvt.edu/linearalgebra/book.pdf) - Jim Hefferon small font, clear
+* [A First Course in Linear Algebra](https://ia801009.us.archive.org/19/items/2017AFirstCourseInLinearAlgebra/2017_a-first-course-in-linear-algebra.pdf) Dry text
+* [GNU Octave Intro](https://www.wcc.vccs.edu/sites/default/files/Introduction-to-GNU-Octave.pdf) Bonus
+* [Abstract Algebra](http://abstract.ups.edu/download/aata-20220728.pdf)
+* [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/GIAM.pdf) 'intro to proofs'
+* [Grinstead and Snell's Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) good book, mentioned everywhere
+* [Probability for the Enthusiastic Beginner](https://github.com/HimoriK/awesome-math/files/11968627/Probability2016.pdf) intense 'beginner' book
+* [Modern Statistical Thinking](https://statsthinking21.github.io/statsthinking21-core-site)
+* [Vector Calculus](https://mecmath.net/VectorCalculus.pdf) 'calc3'
+* [Measure, Integration & Real Analysis](https://measure.axler.net/MIRA.pdf) difficult text
+  
 
 ## Youtube Series
 * [YoutubePlaylistCalc](https://addons.mozilla.org/en-US/firefox/addon/youtube-playlist-duration-calc/) [Save time by seeing it](https://www.playlistlength.com/), use 'YouTube Speed Controller'
@@ -162,6 +180,7 @@ A curated list of awesome mathematics resources.
 * [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Robert Howlett Author tried to make the subject understandable
 * [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami) Pretty good intro that eases into to both subjects
 * [Abstract Algebra: Harvard Extension Videos](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3) - Benedict Gross (haven't checked, not a fan of videos though)
+* [Modern Algebra I](https://github.com/HimoriK/awesome-math/files/11968804/Modern.Algebra.I.1965.PrenticeHall.pdf) - Seth Warner Old text, but seems ok (replace)
 
 ### Group Theory
 
@@ -272,18 +291,11 @@ A curated list of awesome mathematics resources.
 
 ### Complex Analysis
 
-* [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) - Michael Taylor
-* [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) - John P. D'Angelo (University of Illinois)
-* [A First Course in Complex Analysis](http://math.sfsu.edu/beck/papers/complex.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
-* [A Guide to Complex Variables](http://www.math.wustl.edu/~sk/books/guide.pdf) - Steven G. Krantz
-* [Complex Analysis](http://www.maths.manchester.ac.uk/~cwalkden/complex-analysis/complex_analysis.pdf) - Charles Walkden
-* [Complex Analysis](http://www.math.ku.dk/noter/filer/koman-12.pdf) - Christian Berg
-* [Complex Variables](http://people.math.sc.edu/girardi/m7034/book/AshComplexVariablesWithHyperlinks.pdf) - R. B. Ash, W.P. Novinger
-* [Complex Analysis](http://www.maths.lth.se/matematiklu/personal/olofsson/CompHT06.pdf) - Christer Bennewitz
-* [Complex Analysis](https://web.archive.org/web/20150620124453/https://www.math.washington.edu/~marshall/math_536/Notes.pdf) - Donald E. Marshall
-* [A Concise Course in Complex Analysis and Riemann Surfaces](https://gauss.math.yale.edu/~ws442/complex.pdf) - Wilhelm Schlag
-* [Complex Analysis](http://people.math.gatech.edu/%7Ecain/winter99/complex.html) - G. Cain (Georgia Tech)
-* [Complex Analysis](https://complex-analysis.com/) - Juan Carlos Ponce Campuzano
+* [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) ok
+* [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) brief
+* [Complex Variables](http://people.math.sc.edu/girardi/m7034/book/AshComplexVariablesWithHyperlinks.pdf) ok, more indepth
+* [Complex Analysis](http://people.math.gatech.edu/%7Ecain/winter99/complex.html) fair
+* [Interactive Complex Analysis](https://complex-analysis.com/) **interactive** deep dive
 
 ### Functional Analysis
 

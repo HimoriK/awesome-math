@@ -50,11 +50,9 @@ A curated list of awesome mathematics resources.
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/ila.pdf) great book, 450 pages
 * [Tea Time Linear Algebra](https://raw.githubusercontent.com/lqbrin/tea-time-linear/main/TeaTimeLinearAlgebra-edition02.pdf) best book possibly
 * [Linear Algebra 4th Edtion](https://joshua.smcvt.edu/linearalgebra/book.pdf) - Jim Hefferon small font, clear
-* [A First Course in Linear Algebra](https://ia801009.us.archive.org/19/items/2017AFirstCourseInLinearAlgebra/2017_a-first-course-in-linear-algebra.pdf) Dry text
 * [GNU Octave Intro](https://www.wcc.vccs.edu/sites/default/files/Introduction-to-GNU-Octave.pdf) Bonus
 * [Abstract Algebra](http://abstract.ups.edu/download/aata-20220728.pdf)
 * [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/GIAM.pdf) 'intro to proofs'
-* [Grinstead and Snell's Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) good book, mentioned everywhere
 * [Probability for the Enthusiastic Beginner](https://github.com/HimoriK/awesome-math/files/11968627/Probability2016.pdf) intense 'beginner' book
 * [Modern Statistical Thinking](https://statsthinking21.github.io/statsthinking21-core-site) 
 * [Vector Calculus](https://mecmath.net/VectorCalculus.pdf) 'calc3'
@@ -135,22 +133,11 @@ A curated list of awesome mathematics resources.
 
 ### Category Theory
 
-* [Category Theory for Computing Science](https://web.archive.org/web/20181221233252/http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) - Michael Barr, Charles Wells
-
-
-### Type Theory
-* [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf) - Jean-Yves Girard
+* [Category Theory for Computing Science](https://web.archive.org/web/20181221233252/http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) ok, maybe useful at some point
 
 ### Homotopy Type Theory
 
-* [Homotopy Type Theory](https://hottheory.files.wordpress.com/2013/03/hott-online-611-ga1a258c.pdf)
-
-### Surreal Numbers
-
-* [Surreal Numbers - How two ex-students turned on to pure mathematics and found total happiness](http://www.math.harvard.edu/~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf) - D. E. Knuth
-* [Surreal Numbers and Games](http://web.mit.edu/sp.268/www/2010/surreal.pdf)
-* [Conway names, the simplicity hierarchy and the surreal number tree](http://www.ohio.edu/people/ehrlich/ConwayNames.pdf) - Philip Ehrlich
-
+* [Homotopy Type Theory](https://hottheory.files.wordpress.com/2013/03/hott-online-611-ga1a258c.pdf) definitely interesting
 
 ## Number Theory
 
@@ -184,10 +171,8 @@ A curated list of awesome mathematics resources.
 
 ### Group Theory
 
-* [Notes on Group Theory](https://www2.bc.edu/mark-reeder/Groups.pdf) - Mark Reeder
-* [Group Theory](http://www.jmilne.org/math/CourseNotes/GT.pdf) - J.S. Milne
-* [Notes on Finite Group Theory](http://www.maths.qmul.ac.uk/~pjc/notes/gt.pdf) - Peter J. Cameron
-* [Group Theory](http://www.cns.gatech.edu/GroupTheory/index.html) - Pedrag Civitanovic
+* [Group Theory](http://www.jmilne.org/math/CourseNotes/GT.pdf) - J.S. Milne good
+* [Notes on Finite Group Theory](http://www.maths.qmul.ac.uk/~pjc/notes/gt.pdf) - Peter J. Cameron ok, interesting at some point
 
 ### Linear Algebra
 
@@ -201,25 +186,15 @@ A curated list of awesome mathematics resources.
 * [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller Interesting way to teach the subject, and isn't swarmed with words
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit and Joseph Rabinoff Read the PDF, the site can be confusing, text heavy, in depth
 
-### Ring Theory
-
-* [Foundations of Module and Ring Theory](http://www.math.uni-duesseldorf.de/~wisbauer/book.pdf) - Robert Wisbauer (University of Düsseldorf)
-
 ### Galois Theory
 
-* [An Introduction to Galois Theory](https://dl.icdst.org/pdfs/files3/7d5ec14b8111cb1c6eab9a95b561babb.pdf) - Andrew Baker (University of Glasgow)
-* [Fields and Galois Theory](http://www.jmilne.org/math/CourseNotes/FT.pdf) - J.S. Milne
-
-### Lie Algebras
-
-* [Lie Algebras](http://www.math.harvard.edu/~shlomo/docs/lie_algebras.pdf) - Shlomo Sternberg
+* [Fields and Galois Theory](http://www.jmilne.org/math/CourseNotes/FT.pdf) - J.S. Milne ok
 
 ## Combinatorics
 
 * [Basic Combinatorics](http://www.math.utk.edu/~wagner/papers/comb.pdf) Good 
 * [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) ok but off formatting
-* [Foundations of Combinatorics with Applications](https://archive.org/download/flooved3540/flooved3540.pdf) direct, a bit dated
-* [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - Peter J. Cameron ok notes
+* [Foundations of Combinatorics with Applications](https://archive.org/download/flooved3540/flooved3540.pdf) direct, dated
 * [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) good book, 800+ pages
 
 ### Graph Theory

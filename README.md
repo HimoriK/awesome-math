@@ -229,9 +229,8 @@ A curated list of awesome mathematics resources.
 
 ## Geometry and Topology
 
-* [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger
-* [Planes and Spherical Trigonometry](http://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf) - George Wentworth and David Eugene Smith (1915)
-* [Analytic Geometry](http://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf) - Lewis Parker Siceloff, George Wentworth, David Eugene Smith (1922)
+* [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) ok, old
+* [Analytic Geometry](http://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf) - George Wentworth, etc (1922) also old, maybe useful
 
 ### Differential Geometry
 
@@ -246,18 +245,14 @@ A curated list of awesome mathematics resources.
 
 ### Topology
 
-* [General Topology](http://www.math.ku.dk/~moller/e03/3gt/notes/gtnotes.pdf) - Jesper M. Møller
-* [Topology Topics](http://mathonline.wikidot.com/topology)
+* [General Topology](http://www.math.ku.dk/~moller/e03/3gt/notes/gtnotes.pdf) good
+* [Topology Topics](http://mathonline.wikidot.com/topology) wiki
 
 ### Algebraic Topology
 
-* [Algebraic Topology](http://www.math.cornell.edu/~hatcher/AT/AT.pdf) - Allen Hatcher
-* [A Concise Course in Algebraic Topology](http://www.math.uchicago.edu/~may/CONCISE/ConciseRevised.pdf) - J. P. May
-* [Introduction to Algebraic Topology](http://www.math.muni.cz/~cadek/at/at.pdf) - Martin Cadek
-* [Algebra and Topology](http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/AlTo.pdf) - Pierre Schapira (Paris VI University)
-* [Lecture Notes in Algebraic Topology](http://www.indiana.edu/~jfdavis/teaching/m623/book.pdf) - James F. Davis, Paul Kirk (Indiana University)
-* [Algebraic Topology](https://www.ma.utexas.edu/ibl1/courses/resources/12_15_07_grad_alg_top_mooremethod.pdf) - Michael Starbird
-* [Lecture Notes on Algebraic Topology](http://www.math.nus.edu.sg/~matwujie/ma5209.pdf) - Jie Wu
+* [Algebraic Topology](http://www.math.cornell.edu/~hatcher/AT/AT.pdf) ok
+* [A Concise Course in Algebraic Topology](http://www.math.uchicago.edu/~may/CONCISE/ConciseRevised.pdf) good
+* [Algebraic Topology](https://www.ma.utexas.edu/ibl1/courses/resources/12_15_07_grad_alg_top_mooremethod.pdf) ok
 
 
 ## Analysis
@@ -283,7 +278,6 @@ A curated list of awesome mathematics resources.
 
 ### Harmonic Analysis
 
-* [Harmonic Analysis Lecture Notes](http://www.math.uiuc.edu/~laugesen/545/545Lectures.pdf) - Richard S. Laugesen (University of Illinois at Urbana–Champaign)
 * [Lecture Notes: Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf) Well explained, in depth
 * [Fourier Analysis](http://www.reed.edu/physics/courses/Physics331.f08/pdf/Fourier.pdf) - Lucas Illing good as a starting point, 20pgs 
 * [Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications](https://ccrma.stanford.edu/~jos/mdft) html, but organized, might replace
@@ -296,26 +290,21 @@ A curated list of awesome mathematics resources.
 * [Complex Analysis](http://people.math.gatech.edu/%7Ecain/winter99/complex.html) fair
 * [Interactive Complex Analysis](https://complex-analysis.com/) **interactive** deep dive
 
-### Functional Analysis
+### Functional Analysis (advanced)
 
-* [An Introduction to Functional Analysis](http://www.math.uwaterloo.ca/~lwmarcou/Preprints/LinearAnalysis.pdf) - Laurent W. Marcoux (University of Waterloo)
-* [Functional Analysis: Lecture Notes](http://users.math.msu.edu/users/jeffrey/920/920notes.pdf) - Jeff Schenker (Michigan State University)
-* [Functional Analysis Lecture Notes](http://www.math.hkbu.edu.hk/~zeng/Teaching/math3680/FAnotes.pdf) - T.B. Ward (University of East Anglia)
-* [Functional Analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
-* [Topics in Real and Functional Analysis](https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf) - Gerald Teschl
-* [Functional Analysis](http://www2.math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) - Christian Remling
-* [Theory of Functions of a Real Variable](http://www.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) - Shlomo Sternberg
-* [Functional Analysis](http://spot.colorado.edu/~baggett/functional.html) - Lawerence Baggett
+* [An Introduction to Functional Analysis](https://www.math.uwaterloo.ca/~lwmarcou/notes/pmath453.pdf) ok at some point
+* [Functional Analysis: Lecture Notes](http://users.math.msu.edu/users/jeffrey/920/920notes.pdf) very explanatory, text heavy
+* [Topics in Real and Functional Analysis](https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf) might be important at some point
+* [Functional Analysis](http://www2.math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) ok, somewhat crammed
+* [Theory of Functions of a Real Variable](http://www.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) ok, organized
 
 ### Measure Theory
 
-* [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf) - Terence Tao (UCLA)
-* [Lecture Notes on Measure Theory and Functional Analysis](http://www.mat.uniroma2.it/~cannarsa/cam_0607.pdf) - P. Cannarsa, T. D’Aprile
-* [Lecture Notes in Measure Theory](http://www.math.chalmers.se/~borell/MeasureTheory.pdf) - Christer Borell
-* [A Crash Course on the Lebesgue Integral and Measure Theory](http://www.gold-saucer.org/math/lebesgue/lebesgue.pdf) - Steve Cheng
-* [Measure Theory](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf) - John K. Hunter (University of California at Davis)
-* [Measure and Integration](https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf) - Dietmar A. Salamon (ETH Zürich)
-* [Lecture notes: Measure Theory](http://www.math.ucsd.edu/~bdriver/240-00-01/Lecture_Notes/measurep.pdf) - Bruce K. Driver
+* [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf) - Terence Tao (UCLA) ok
+* [Lecture Notes in Measure Theory](http://www.math.chalmers.se/~https://dl200.vdocument.in/file_download/file1/5a9ad0477f8b9a9c5b8de099?ext=pdf&vaild=cd8ed7610357e6a8ce3445fd2ab5736cc3e9f3d71cb5683daca2d89699919a7e17e8186c51bd8e5c50dce9687be6ad6c00bd5f9a34dac994f2e17699cc9a29bdo0wPMyP8EZDgem22vkxdfcuwzGP2vNnjGTiMKJ7BwTTSyKv0qOCa3WHO5PQfyuNqgaiHhLZ7kY4qrR3Hy8HgrQllB0L3jpOruRCB9bxoKRg=) - Steve Cheng
+* [Measure Theory](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf) good, short
+* [Measure and Integration](https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf) more in-depth
+* [Lecture notes: Measure Theory](http://www.math.ucsd.edu/~bdriver/240-00-01/Lecture_Notes/measurep.pdf) sparse
 
 ### Ordinary Differential Equations
 
@@ -323,9 +312,7 @@ A curated list of awesome mathematics resources.
 
 ### Partial Differential Equations
 
-* [Notes on Partial Differential Equations](https://www.math.ucdavis.edu/~hunter/pdes/pde_notes.pdf) - John K. Hunter (University of California at Davis)
-* [Partial Differential Equations: Lecture Notes](http://www.math.uni-leipzig.de/~miersemann/pdebook.pdf) - Erich Miersemann (Leipzig University)
-* [Linear Methods of Applied Mathematics](http://www.mathphysics.com/pde/) - E. Harrell, J. Herod (Georgia Tech)
+* [Notes on Partial Differential Equations](https://www.math.ucdavis.edu/~hunter/pdes/pde_notes.pdf) ok, organized (section needs a revamp)
 
 
 ## Probability and Statistics
@@ -341,9 +328,9 @@ A curated list of awesome mathematics resources.
 
 * [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle (George Mason University) (lengthy, but good)
 * [Statistical Thinking for the 21st Century](https://statsthinking21.org/) - Russell A. Poldrack
-* [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg
+* [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) fun text with examples
+* [Knowing the Odds: An Introduction to Probability](https://github.com/HimoriK/awesome-math/files/11974946/Knowing.the.Odds.pdf) elegant, bridges intermediate to advanced concepts
 * [Seeing Theory](https://seeing-theory.brown.edu/) visual
-* [Statistics Done Wrong](https://www.statisticsdonewrong.com/) - Alex Reinhart
 
 ### Statistical Learning
 

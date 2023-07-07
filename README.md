@@ -218,13 +218,15 @@ A curated list of awesome mathematics resources.
 
 * [Basic Combinatorics](http://www.math.utk.edu/~wagner/papers/comb.pdf) Good 
 * [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) ok but off formatting
+* [Foundations of Combinatorics with Applications](https://archive.org/download/flooved3540/flooved3540.pdf) direct, a bit dated
 * [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - Peter J. Cameron ok notes
 * [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) good book, 800+ pages
 
 ### Graph Theory
 
-* [Graph Theory: Lecture Notes](http://www.personal.psu.edu/cxg286/Math485.pdf) - Christopher Griffin
-* [Graph Theory](http://www.cs.unibo.it/babaoglu/courses/cas00-01/tutorials/GraphTheory.pdf) - Reinhard Diestel
+* [Graph Theory 5th Edition](https://github.com/HimoriK/awesome-math/files/11980196/GTM.pdf) - Reinhard Diestel recent but text heavy
+* [Graph Theory](https://github.com/HimoriK/awesome-math/files/11980263/Graph.theory-Springer2008.pdf) - explanatory, but lengthy, old but few good resources on subject
+
 
 
 ## Geometry and Topology

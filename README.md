@@ -55,6 +55,7 @@ A curated list of awesome mathematics resources.
 * [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/GIAM.pdf) 'intro to proofs'
 * [Probability for the Enthusiastic Beginner](https://github.com/HimoriK/awesome-math/files/11968627/Probability2016.pdf) intense 'beginner' book
 * [Modern Statistical Thinking](https://statsthinking21.github.io/statsthinking21-core-site) 
+* [Multivariable Calculus](https://www.whitman.edu/mathematics/multivariable/) solid intro to calculus, read 'early transcendental' versions
 * [Vector Calculus](https://mecmath.net/VectorCalculus.pdf) 'calc3'
 * [Measure, Integration & Real Analysis](https://measure.axler.net/MIRA.pdf) difficult text
   

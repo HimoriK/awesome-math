@@ -11,21 +11,11 @@ A curated list of awesome mathematics resources.
     * [Youtube Series](#youtube-series)
     * [Tools](#tools)
     * [Books](#books)
-* [Lecture Notes](#lecture-notes)
-    * [Foundations of Mathematics](#foundations-of-mathematics)
-    * [Number Theory](#number-theory)
-    * [Algebra](#algebra)
-    * [Combinatorics](#combinatorics)
-        * [Graph Theory](#graph-theory)
-    * [Geometry and Topology](#geometry-and-topology)
-    * [Analysis](#analysis)
     * [Probability and Statistics](#probability-and-statistics)
         * [Probability Theory](#probability-theory)
         * [Statistics](#statistics)
-    * [Numerical Analysis](#numerical-analysis)
     * [Mathematics for Computer Science](#mathematics-for-computer-science)
     * [Mathematical Physics](#mathematical-physics)
-* [Students Lecture Notes](#students-lecture-notes)
 
 <!-- END_TOC -->
 
@@ -34,10 +24,10 @@ A curated list of awesome mathematics resources.
 ## Learning Platforms
 
 * [Khan Academy](https://www.khanacademy.org/math) free, used in many schools for practice, however confusing videos and limited plans
+* [Coolmath](https://www.coolmath.com/) free, existed since dawn of internet, colorful with good examples (up to pre-calc)
 * [OpenAlgebra](https://www.openalgebra.com/) free, links to short videos 
 * [Calculus.org](http://calculus.org/) various links to calculus resources
 * [Ximera](https://ximera.osu.edu/) : free interactive mathematics textbooks (Ohio State University)
-* [MathRelay](https://www.mathrelay.com/) serious site with solutions and video
 
 ## Learn to Learn
 
@@ -76,12 +66,7 @@ A curated list of awesome mathematics resources.
 * [Singular](https://www.singular.uni-kl.de/) might be useful
 * [GNU Octave](https://www.gnu.org/software/octave/) maybe also useful, compatible with matlab
 * [Magma](http://magma.maths.usyd.edu.au/magma/)
-* [Free Math](https://freemathapp.org)
 * [CopyPasteMathjax](https://www.copypastemathjax.com/)
-
-## Encyclopedia
-
-* [Planetmath](http://planetmath.org/) written in unorganized html, unusable
 
 ## Books
 
@@ -112,6 +97,7 @@ A curated list of awesome mathematics resources.
 # Lecture Notes
 
 ## Foundations of Mathematics
+
 ### Transition To Pure Rigour Math
 * [Basic Concepts of Mathematics](http://www.trillia.com/zakon1.html) - Elias Zakon
 

@@ -27,7 +27,7 @@ A curated list of awesome mathematics resources.
 * [Coolmath](https://www.coolmath.com/) free, existed since dawn of internet, colorful with good examples (up to pre-calc)
 * [OpenAlgebra](https://www.openalgebra.com/) free, links to short videos 
 * [Calculus.org](http://calculus.org/) various links to calculus resources
-* [Ximera](https://ximera.osu.edu/) : free interactive mathematics textbooks (Ohio State University)
+* [Ximera](https://ximera.osu.edu/) : free interactive mathematics textbooks (Ohio StateU)
 
 ## Learn to Learn
 

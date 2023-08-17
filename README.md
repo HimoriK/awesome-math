@@ -57,6 +57,9 @@ A curated list of awesome mathematics resources.
   * [To The Point Math](https://www.youtube.com/playlist?list=PLDesaqWTN6ETc1ZwHWijCBcZ2gOvS2tTN) his breakdown from algebra to calc
 * [The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor/playlists) imo, him and Leonard are the only 2 channels. TOCT teaches every subject efficiently.
 * [Mathematical Monk](https://www.youtube.com/@mathematicalmonk) interesting byte-sized scientific maths (2010), check probability playlist
+* [HamblinMath](https://www.youtube.com/@HamblinMath) variety of math vids, check linear algebra playlist
+* [Mathispower4u](https://www.youtube.com/@Mathispower4u/playlists) full math content, slightly organized by site, mid.
+* [M4ML](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) Machine Learning math course
 
 ## Tools
 

@@ -36,6 +36,7 @@ A curated list of awesome mathematics resources.
 ## Recommended List
 
 * [Advanced Algebra v 1.0](https://2012books.lardbucket.org/pdfs/advanced-algebra.pdf) **Tome**, good reference
+* [Precalculus Collection](https://www.stitz-zeager.com/) Various books on precalculus, an AIO [bundle](https://www.openintro.org/)
 * [Trig Worksheet](https://www.trigcheatsheet.com/) diagram worksheet
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/ila.pdf) great book, 450 pages
 * [Tea Time Linear Algebra](https://raw.githubusercontent.com/lqbrin/tea-time-linear/main/TeaTimeLinearAlgebra-edition02.pdf) best book possibly
@@ -59,7 +60,7 @@ A curated list of awesome mathematics resources.
 * [Mathematical Monk](https://www.youtube.com/@mathematicalmonk) interesting byte-sized scientific maths (2010), check probability playlist
 * [HamblinMath](https://www.youtube.com/@HamblinMath) variety of math vids, check linear algebra playlist
 * [Mathispower4u](https://www.youtube.com/@Mathispower4u/playlists) full math content, slightly organized by site, mid.
-* [M4ML](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) Machine Learning math course
+* ~~[M4ML](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) Machine Learning math course~~
 
 ## Tools
 
@@ -70,6 +71,7 @@ A curated list of awesome mathematics resources.
 * [GNU Octave](https://www.gnu.org/software/octave/) maybe also useful, compatible with matlab
 * [Magma](http://magma.maths.usyd.edu.au/magma/)
 * [CopyPasteMathjax](https://www.copypastemathjax.com/)
+* [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/download.html) & [Insect](https://insect.sh/) 
 
 ## Books
 
@@ -168,6 +170,7 @@ A curated list of awesome mathematics resources.
 
 * [Fundamentals of Linear Algebra](http://www.math.ubc.ca/~carrell/NB.pdf) - James B. Carrell good
 * [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch good
+* [Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Nathaniel-Johnston/dp/3030528103) [vid](https://www.youtube.com/watch?v=KJcROj6fP4s)
 * [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett interesting text, watermarked
 * [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon font sucks, but ok
 * [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
@@ -175,6 +178,12 @@ A curated list of awesome mathematics resources.
 * [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA) This book is pretty good
 * [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller Interesting way to teach the subject, and isn't swarmed with words
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit and Joseph Rabinoff Read the PDF, the site can be confusing, text heavy, in depth
+* [Linear Algebra 5th ed](https://www.amazon.com/Linear-Algebra-5th-Stephen-Friedberg/dp/B0B9HBT4XH) I heard this was good
+* [Linear Algebra](https://www.math.brown.edu/~treil/papers/LADW/LADW_2021_01-11.pdf) Linear Algebra Done Wrong - Sergei Treil 
+Serge Lang Intro to / linear algebra (Optional, has 2 versions)
+* [Linear Algebra Helsinki](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf)
+* [Intro Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/1733146679) Gilbert strang's latest book, ehh
+* [Linear Algebra Foundations](https://www.cs.utexas.edu/users/flame/laff/laff/LAFF-2.00M.pdf) Robert, Margaret extra
 
 ### Galois Theory
 

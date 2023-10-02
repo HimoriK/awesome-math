@@ -35,7 +35,7 @@ A curated list of awesome mathematics resources.
 
 ## Recommended List
 
-* [Advanced Algebra v 1.0](https://2012books.lardbucket.org/pdfs/advanced-algebra.pdf) **Tome**, mid reference
+* ~~[Advanced Algebra v 1.0](https://2012books.lardbucket.org/pdfs/advanced-algebra.pdf) **Tome**, mid reference~~
 * [Precalculus Collection](https://www.stitz-zeager.com/) Various books on precalculus, an AIO [bundle](https://www.openintro.org/)
 * [Trig Worksheet](https://www.trigcheatsheet.com/) diagram worksheet
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/ila.pdf) great book, 450 pages
@@ -181,7 +181,6 @@ A curated list of awesome mathematics resources.
 * [Linear Algebra 5th ed](https://www.amazon.com/Linear-Algebra-5th-Stephen-Friedberg/dp/B0B9HBT4XH) I heard this was good
 * [Linear Algebra](https://www.math.brown.edu/~treil/papers/LADW/LADW_2021_01-11.pdf) Linear Algebra Done Wrong - Sergei Treil 
 Serge Lang Intro to / linear algebra (Optional, has 2 versions)
-* [Linear Algebra Helsinki](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf)
 * [Intro Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/1733146679) Gilbert strang's latest book, ehh
 * [Linear Algebra Foundations](https://www.cs.utexas.edu/users/flame/laff/laff/LAFF-2.00M.pdf) Robert, Margaret extra
 

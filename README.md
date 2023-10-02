@@ -115,6 +115,7 @@ A curated list of awesome mathematics resources.
 
 * [An Introduction to Formal Logic](https://www.fecundity.com/codex/forallx.pdf) - P.D. Magnus (University at Albany)
 * [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) - Stefan Bilaniuk (Trent University)
+* [Infinite Descent into Pure Math](https://infinitedescent.xyz/dl/infdesc.pdf) decent alternative
 * [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) advanced text on 'logic'
 * [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) brief 
 * [Predictive Arithmetic](https://web.math.princeton.edu/~nelson/books/pa.pdf) old book, maybe useful?
@@ -134,7 +135,9 @@ A curated list of awesome mathematics resources.
 ## Number Theory
 
 * [Elementary Number Theory](http://math.utoledo.edu/~codenth/Spring_13/3200/ENT-books/Elementary_Number_Theory-Clark.pdf) ok text
+* [Elementary Number Theory:Primes, Congruences, and Secrets](https://wstein.org/ent/ent.pdf) good brief text
 * [A Course on Number Theory](http://www.maths.qmul.ac.uk/~pjc/notes/nt.pdf) light text on number theory
+* [Introduction to the Theory of Numbers](http://www.trillia.com/dA/moser-number-a4-one.pdf) mid
 * [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) interesting text, although font sucks
 * [Yet Another Introductary Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt.pdf) pretty good introductory text
 
@@ -175,7 +178,8 @@ A curated list of awesome mathematics resources.
 * [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon font sucks, but ok
 * [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
-* [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA) This book is pretty good
+* [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford), Lieven Vandenberghe (UCLA) This book is pretty good
+* [Elements of Abstract & Linear Algebra](https://www.math.miami.edu/~ec/book/book.pdf) good, by Connell
 * [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller Interesting way to teach the subject, and isn't swarmed with words
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit and Joseph Rabinoff Read the PDF, the site can be confusing, text heavy, in depth
 * [Linear Algebra 5th ed](https://www.amazon.com/Linear-Algebra-5th-Stephen-Friedberg/dp/B0B9HBT4XH) I heard this was good
@@ -204,6 +208,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions)
 
 ## Geometry and Topology
 
+* [Euclid's Elements Redux](https://ia800701.us.archive.org/28/items/euclid-elements-redux_201809/euclid-a4.pdf) Rare
 * [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) ok, old
 * [Analytic Geometry](http://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf) - George Wentworth, etc (1922) also old, maybe useful
 
@@ -242,6 +247,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions)
 * [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) 
 * [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) ok^2
 * [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/) ok at some point
+* [Tea Time Numerical Analysis](https://lqbrin.github.io/tea-time-numerical/index.html) ok
 * [A ProblemText in Advanced Calculus](http://web.pdx.edu/~erdman/PTAC/problemtext_pdf.pdf) ok eventually
 * [Calculus and Linear Algebra. Vol. 1](http://hdl.handle.net/2027/spo.5597602.0001.001) old but ok book, combines topics well and even has a refresher of prior maths
 * [Calculus and Linear Algebra. Vol. 2](https://quod.lib.umich.edu/s/spobooks/5597602.0002.001) ^2
@@ -303,6 +309,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions)
 
 * [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle (George Mason University) (lengthy, but good)
 * [Statistical Thinking for the 21st Century](https://statsthinking21.org/) - Russell A. Poldrack
+* [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/) - Rundel, Johanna (pretty new)
 * [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) fun text with examples
 * [Knowing the Odds: An Introduction to Probability](https://github.com/HimoriK/awesome-math/files/11974946/Knowing.the.Odds.pdf) elegant, bridges intermediate to advanced concepts
 * [Seeing Theory](https://seeing-theory.brown.edu/) visual
@@ -341,6 +348,9 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions)
 ## Mathematics for Computer Science
 
 * [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) - Good reference, brief 2015
+* [Isomorphism](https://github.com/liuxinyu95/unplugged/files/11070580/unplugged-en.pdf)
+* [TheoryOfComputation](https://cglab.ca/~michiel/TheoryOfComputation/TheoryOfComputation.pdf) good
+* [Discrete Structures for Computer Science:Counting, Recursion, and Probability](https://cglab.ca/~michiel/DiscreteStructures/DiscreteStructures.pdf) optional
 * [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) grad level
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) good intro book, pair with prerquisite
 * [Chaos: Classical and Quantum](https://chaosbook.org/chapters/ChaosBook.pdf) wacky writing/book, maybe something interesting

@@ -348,12 +348,13 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions)
 ## Mathematics for Computer Science
 
 * [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) - Good reference, brief 2015
-* [Isomorphism](https://github.com/liuxinyu95/unplugged/files/11070580/unplugged-en.pdf)
+* [Isomorphism](https://github.com/liuxinyu95/unplugged/files/11070580/unplugged-en.pdf) fun math programming book
 * [TheoryOfComputation](https://cglab.ca/~michiel/TheoryOfComputation/TheoryOfComputation.pdf) good
 * [Discrete Structures for Computer Science:Counting, Recursion, and Probability](https://cglab.ca/~michiel/DiscreteStructures/DiscreteStructures.pdf) optional
 * [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) grad level
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) good intro book, pair with prerquisite
 * [Chaos: Classical and Quantum](https://chaosbook.org/chapters/ChaosBook.pdf) wacky writing/book, maybe something interesting
+* [Deep Learning Introduction](https://www.youtube.com/watch?v=s2uXPz3wyCk&list=PLMsTLcO6etti_SObSLvk9ZNvoS_0yia57&t=67s) relevant by Durham University
 
 ## Mathematical Biology
 

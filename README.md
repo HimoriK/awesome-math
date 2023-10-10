@@ -106,14 +106,6 @@ A curated list of awesome mathematics resources.
 *  [Philosophy Reading List](https://www.reddit.com/r/philosophy/wiki/readinglist)
 *  [Mathematics History Sourcebooks](https://www.maa.org/press/maa-reviews/browse?field_tags_tid=37088&field_bll_rating_tid=All&field_maa_review_value=All)
 *  [History of Mathematics: Source-Based Approach](https://www.amazon.com/History-Mathematics-Source-Based-Approach-Textbooks/dp/1470464993)
-*  [Mathematically rigorous introduction to game theory](https://mathoverflow.net/questions/71848/looking-for-a-mathematically-rigorous-introduction-to-game-theory)
-*  [Game Theory Book Recommendations](https://math.stackexchange.com/questions/2316833/game-theory-book-recommendations)
-*  [Books for Game Theory](https://math.stackexchange.com/questions/3779545/books-for-game-theory)
-*  [Book recommendation for game theory](https://math.stackexchange.com/questions/4245930/book-recommendation-for-game-theory)
-*  [A good and rigorous game theory text?](https://www.reddit.com/r/math/comments/lt046/a_good_and_rigorous_game_theory_text/)
-*  [What are some good introductory books on game theory?](https://www.reddit.com/r/math/comments/1ju1m3/what_are_some_good_introductory_books_on_game/)
-*  [Can you recommend a good game theory textbook?](https://www.reddit.com/r/math/comments/b1esq/can_you_recommend_a_good_game_theory_textbook/)
-*  [Game Theory: An Introduction](https://bookstore.ams.org/view?ProductCode=GSM/115)
 *  [Euclid's Elements](https://www.c82.net/euclid/)
 *  [Jo Boaler - Limitless Mind](https://youtu.be/Z0k8F9m2pJ8)
 *  [Mathematics, a human endeavor](https://ia803204.us.archive.org/10/items/mathematics-a-human-endeavor-a-textbook-for-those-who-think-they-dont-like-the-s/Mathematics%2C%20a%20Human%20Endeavor%20A%20Textbook%20for%20Those%20Who%20Think%20They%20Don%E2%80%99t%20Like%20the%20Subject%20by%20Harold%20R.%20Jacobs%20%28z-lib.org%29.pdf)
@@ -130,6 +122,14 @@ A curated list of awesome mathematics resources.
 * [List of electronic textbooks](http://faculty.atu.edu/mfinan/nnotes.html) - Marcel B. Finan (Arkansas Tech University) some old resources, 2003-2020?
 * [Recreations in Math](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) - H. E. Licks (1917) this is a pretty interesting book, it goes over the history of math
 * [Magic Squares and Cubes](http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf) - W. S. Andrews (1917) goes over magic squares and their history, interesting but extra material
+* [Mathematically rigorous introduction to game theory](https://mathoverflow.net/questions/71848/looking-for-a-mathematically-rigorous-introduction-to-game-theory)
+* [Game Theory Book Recommendations](https://math.stackexchange.com/questions/2316833/game-theory-book-recommendations)
+* [Books for Game Theory](https://math.stackexchange.com/questions/3779545/books-for-game-theory)
+* [Book recommendation for game theory](https://math.stackexchange.com/questions/4245930/book-recommendation-for-game-theory)
+* [A good and rigorous game theory text?](https://www.reddit.com/r/math/comments/lt046/a_good_and_rigorous_game_theory_text/)
+* [What are some good introductory books on game theory?](https://www.reddit.com/r/math/comments/1ju1m3/what_are_some_good_introductory_books_on_game/)
+* [Can you recommend a good game theory textbook?](https://www.reddit.com/r/math/comments/b1esq/can_you_recommend_a_good_game_theory_textbook/)
+* [Game Theory: An Introduction](https://bookstore.ams.org/view?ProductCode=GSM/115)
 
 # Lecture Notes
 

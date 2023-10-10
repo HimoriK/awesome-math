@@ -123,7 +123,7 @@ A curated list of awesome mathematics resources.
 *  [Pi, Phi, & I](https://www.amazon.com/Phi-Pi-i-Spectrum/dp/0883855895)
 *  [Conics?](https://www.amazon.com/Conics-Books-I-IV-Apollonius-Perga/dp/1888009411)
 *  [History of Math: Britannica](https://www.britannica.com/science/mathematics)
-*  [Math Through the Ages: A Gentle History for Teachers and Others: https://www.maa.org/press/maa-reviews/math-through-the-ages-a-gentle-history-for-teachers-and-others-1
+*  ~~[Math Through the Ages](https://www.maa.org/press/maa-reviews/math-through-the-ages-a-gentle-history-for-teachers-and-others-1)~~
 
 
 ## Misc

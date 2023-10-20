@@ -44,7 +44,8 @@ A curated list of awesome mathematics resources.
 * [GNU Octave Intro](https://www.wcc.vccs.edu/sites/default/files/Introduction-to-GNU-Octave.pdf) Bonus
 * [Abstract Algebra](http://abstract.ups.edu/download/aata-20220728.pdf)
 * [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/GIAM.pdf) 'intro to proofs'
-* [Probability for the Enthusiastic Beginner](https://github.com/HimoriK/awesome-math/files/11968627/Probability2016.pdf) intense 'beginner' book
+* [Probability for the Enthusiastic Beginner](https://github.com/HimoriK/awesome-math/files/13058555/Probability2016.pdf) intense 'beginner' book 
+* [Introduction to Probability](https://projects.iq.harvard.edu/stat110/) full resources, perhaps best stats book
 * [Modern Statistical Thinking](https://statsthinking21.github.io/statsthinking21-core-site) 
 * [Multivariable Calculus](https://www.whitman.edu/mathematics/multivariable/) solid intro to calculus, read 'early transcendental' versions
 * [Vector Calculus](https://mecmath.net/VectorCalculus.pdf) 'calc3'
@@ -302,7 +303,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions)
 
 * [A Short Introduction to Probability](http://www.maths.uq.edu.au/~kroese/asitp.pdf) - Dirk P. Kroese (University of Queensland) good intro
 * [Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley) cookbook cheatsheet
-* [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - William Chen pretty good, also check [Introduction To Probability](https://github.com/HimoriK/awesome-math/files/11949625/introduction-to-probability.pdf)
+* [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - William Chen pretty good, also check [Introduction to Probability](https://github.com/HimoriK/awesome-math/files/13058536/Introduction-to-Probability.pdf)
 * [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan ok text
 
 ### Statistics

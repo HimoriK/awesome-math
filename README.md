@@ -260,7 +260,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions)
 ### Harmonic Analysis
 
 * [Lecture Notes: Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf) Well explained, in depth
-* [Fourier Analysis](http://www.reed.edu/physics/courses/Physics331.f08/pdf/Fourier.pdf) - Lucas Illing good as a starting point, 20pgs 
+* [Fourier Analysis](http://www.reed.edu/physics/courses/Physics331.f08/pdf/Fourier.pdf) - Lucas I - good as a starting point, 20pgs 
 * [Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications](https://ccrma.stanford.edu/~jos/mdft) html, but organized, might replace
 
 ### Complex Analysis

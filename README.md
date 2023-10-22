@@ -162,6 +162,7 @@ A curated list of awesome mathematics resources.
 * [Algebraic Methods](https://feog.github.io/AA11.pdf) - F. Oggier (Check their extra works at their .io domain)
 * [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Robert Howlett Author tried to make the subject understandable
 * [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami) Pretty good intro that eases into to both subjects
+* [Abstract Algebra: A Concrete Introduction](https://www.amazon.com/Abstract-Algebra-Concrete-Introduction-Beachy/dp/0130044253) Math sorcerer recommends, but dated
 * [Abstract Algebra: Harvard Extension Videos](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3) - Benedict Gross (haven't checked, not a fan of videos though)
 * [Modern Algebra I](https://github.com/HimoriK/awesome-math/files/11968804/Modern.Algebra.I.1965.PrenticeHall.pdf) - Seth Warner Old text, but seems ok (replace)
 
@@ -177,6 +178,7 @@ A curated list of awesome mathematics resources.
 * [Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Nathaniel-Johnston/dp/3030528103) [vid](https://www.youtube.com/watch?v=KJcROj6fP4s)
 * [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett interesting text, watermarked
 * [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon font sucks, but ok
+* [Elementary Linear Algebra](https://github.com/HimoriK/awesome-math/files/13064537/Elementary.Linear.Algebra.-.Munkres.1964.pdf) dated, possibly useful Munkres, 1964
 * [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
 * [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford), Lieven Vandenberghe (UCLA) This book is pretty good
@@ -185,7 +187,7 @@ A curated list of awesome mathematics resources.
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit and Joseph Rabinoff Read the PDF, the site can be confusing, text heavy, in depth
 * [Linear Algebra 5th ed](https://www.amazon.com/Linear-Algebra-5th-Stephen-Friedberg/dp/B0B9HBT4XH) I heard this was good
 * [Linear Algebra](https://www.math.brown.edu/~treil/papers/LADW/LADW_2021_01-11.pdf) Linear Algebra Done Wrong - Sergei Treil 
-Serge Lang Intro to / linear algebra (Optional, has 2 versions)
+Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w errors
 * [Intro Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/1733146679) Gilbert strang's latest book, ehh
 * [Linear Algebra Foundations](https://www.cs.utexas.edu/users/flame/laff/laff/LAFF-2.00M.pdf) Robert, Margaret extra
 
@@ -226,6 +228,8 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions)
 
 ### Topology
 
+* [Principles of Topology](https://www.amazon.com/Principles-Topology-Dover-Books-Mathematics/dp/0486801543) Croom (easiest introduction)
+* [Topology](https://www.amazon.com/Topology-Classic-Classics-Advanced-Mathematics/dp/0134689518) Munkres (highly recommended)
 * [General Topology](http://www.math.ku.dk/~moller/e03/3gt/notes/gtnotes.pdf) good
 * [Topology Topics](http://mathonline.wikidot.com/topology) wiki
 
